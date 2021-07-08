@@ -121,7 +121,7 @@
 - Indústria
            **Filosofia**
        
-- Filosofia Pré-socrática
+- Filosofia Pré-socrática *
 
 - Política para Aristóteles
 
