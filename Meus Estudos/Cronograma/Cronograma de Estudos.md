@@ -1,7 +1,7 @@
 Segunda - Fisica - Geografia
-terça - Historia e inglês
-quarta - Biologia e Quimica
-quinta - Matematica - Sociologia
-sexta - Português  -  Filosofia
-sabado - Literatura - Redação
-domingo - x
+Terça - Historia e inglês
+Quarta - Biologia e Quimica
+Quinta - Matematica - Sociologia
+Sexta - Português  -  Filosofia
+Sábado - Literatura - Redação
+Domingo - **Missa**
