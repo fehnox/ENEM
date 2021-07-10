@@ -48,7 +48,8 @@ Perceba-se que falta recurso.
 
     - Apresentar o tema (Filme, Um Livro, Uma série, um filme, texto de jornal) com algo que já existe ou já aconteceu. 
     - se posicionar
-    - Tese (Falar sobre o seu posicionamento)
+    - Tese (Falar sobre o seu posicionamento)   
+      - Tese: analítica e sintética 
     - 
 
   - (Desenvolvimento1)
