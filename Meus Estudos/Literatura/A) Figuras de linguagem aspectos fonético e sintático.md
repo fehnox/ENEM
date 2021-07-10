@@ -1,3 +1,5 @@
+![Capturar](C:\Users\Fernando Emanoel\Desktop\Capturar.PNG)
+
 Figuras de Linguagem: aspectos fonético e sintático
 
 **Figuras de Linguagem: Fonética e Sintática.**
@@ -63,4 +65,3 @@ Figuras de Linguagem: https://www.youtube.com/watch?v=Hi-2LNNg4SE&t=1s
 
 Figuras de Linguagem (Descomplica): https://www.youtube.com/watch?v=xfjSzZf6JA4
 
- [Figuras de Linguagem(Descomplica).pdf](Figuras de Linguagem(Descomplica).pdf) 
