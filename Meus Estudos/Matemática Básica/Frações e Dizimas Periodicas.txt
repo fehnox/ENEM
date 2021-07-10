@@ -1,7 +1,3 @@
-Frações e Dízimas periódicas
-
-
-
 **1. Frações**
 
 **a) Conceito Inicial**
@@ -467,3 +463,13 @@ x = 3/9
 [Mundo Educação - Classificação das frações](https://mundoeducacao.uol.com.br/matematica/classificacao-das-fracoes.htm#:~:text=A classificação das frações distingue,%3A própria%2C imprópria e aparente.&text=Não pare agora...,e o b significa divisão.)
 [Matemática Didática - Fração Mista](https://www.matematicadidatica.com.br/FracaoMistaImpropria.aspx#:~:text=Fração própria é toda fração,que o do seu denominador.&text=A fração (dois inteiros e,é igual a 1%2F3.)
 [Mundo educação - Frações equivalentes](https://mundoeducacao.uol.com.br/matematica/fracoes-equivalantes.htm)
+
+-  Vídeos Relacionados
+
+  Frações (Parte 1) : https://www.youtube.com/watch?v=YJyY6A_MOQc&t=2s
+
+  Frações (Parte 2): https://www.youtube.com/watch?v=SgJpB78R7x0
+
+  Dízimas Periódicas: https://www.youtube.com/watch?v=d9GBEzzCuRg&t=2s
+
+  
