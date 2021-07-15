@@ -335,6 +335,10 @@ Confira a seguir, uma lista com os nomes dos símbolos utilizados na Matemática
 **
 **
 
+OBS.: Não é necessário decorar todos os símbolos, pois você se familiarizará com eles ao longos dos seus estudos! Porém, não faz mal dar uma espiada no que está por vir:
+
+
+
 **Fontes:**
 
 
