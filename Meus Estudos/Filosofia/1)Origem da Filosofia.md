@@ -137,3 +137,10 @@ Fontes:
 
 Toda Matéria - O que é filosofia?
 Toda Matéria - Origem da filosofia
+
+Vídeos Referencias:
+5 TEMAS DE FILOSOFIA MAIS COBRADOS NO ENEM (Parabólica):
+https://www.youtube.com/watch?v=wlqmk6vZcNc&t=2s
+
+Filosofia - História da Filosofia- Surgimento da Filosofia(AulaLivre)
+https://www.youtube.com/watch?v=WPSDYtxd_d0

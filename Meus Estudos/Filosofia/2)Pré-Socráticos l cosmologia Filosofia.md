@@ -168,3 +168,31 @@ Fonte:
 
 Brasil Escola - Pré Socráticos
 Toda Matéria - Filósofos Pré Socráticos
+
+Vídeos Referências:
+(Parabólica):
+FILÓSOFOS PRÉ SOCRÁTICOS PARA O ENEM
+https://www.youtube.com/watch?v=TIIzrsbx74E&t=15s
+
+TALES DE MILETO E A ORIGEM DAS COISAS.
+https://www.youtube.com/watch?v=b8gsidcbprs
+
+ANAXIMANDRO DE MILETO, O ÁPEIRON E A TERRA CILÍNDRICA.
+https://www.youtube.com/watch?v=dsQoi6b3-Wo&t=1s
+
+ANAXÍMENES DE MILETO, O AR E O FORMATO DA TERRA
+https://www.youtube.com/watch?v=qhALrNZEvis
+
+A FILOSOFIA DE PITÁGORAS DE SAMOS
+https://www.youtube.com/watch?v=epFMWZD2Erc
+
+
+DEMÓCRITO E A TEORIA ATÔMICA
+https://www.youtube.com/watch?v=F6ELaI6rfcw
+
+A FILOSOFIA DE ANAXÁGORAS de CLAZÔMENAS
+https://www.youtube.com/watch?v=H328rUUlmus
+
+XENÓFANES E A CRÍTICA AOS DEUSES ANTROPOMÓRFICOS
+https://www.youtube.com/watch?v=w0cJAinrE9c
+
