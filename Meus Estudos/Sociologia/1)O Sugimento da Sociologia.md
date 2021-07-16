@@ -39,3 +39,13 @@ No Brasil, é apenas na década de 1920 que surgem os primeiros estudos socioló
 
 [Info Escola - História da Sociologia](https://www.infoescola.com/sociologia/historia-da-sociologia/)
 [Brasil Escola - Sociologia](https://brasilescola.uol.com.br/sociologia/sociologia2.htm)
+
+Vídeos Referências:
+Temas Mais cobrados de Sociologia no Enem (Se Liga - Enem e Vestibulares):
+https://www.youtube.com/watch?v=oi4vhT32Nc0
+
+o que é e para que serve a sociliologia?(Parabólica):
+https://www.youtube.com/watch?v=ZdIrgqd7keI&t=1s
+
+Sociologia - o Nascimento da Sociologia (Stoodi):
+https://www.youtube.com/watch?v=rf5ARKii0ew

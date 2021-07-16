@@ -77,3 +77,9 @@ Com a superação do período teológico e das religiões baseadas nos mitos e n
 [Info Escola - Positivismo](https://www.infoescola.com/sociologia/positivismo/)
 [Info Escola - Augusto Comte, o positivismo e a escola](https://www.infoescola.com/educacao/auguste-comte-o-positivismo-e-a-escola/)
 
+Vídeos Relacionados:
+o que é positivismo de augusto Comte? (Parabolica):
+https://www.youtube.com/watch?v=wvkslsfuY4c&t=1s
+
+Positivismo (Descomplica):
+https://www.youtube.com/watch?v=0ki0ySUVaT8
