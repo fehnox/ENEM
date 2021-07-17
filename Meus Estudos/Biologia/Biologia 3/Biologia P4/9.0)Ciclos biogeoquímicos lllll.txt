@@ -1,0 +1,182 @@
+O trajeto das substâncias do ambiente abiótico para o mundo dos seres vivos e o seu retorno ao mundo abiótico completam o que chamamos de ciclo biogeoquímico.
+
+O termo é derivado do fato de que há um movimento cíclico de elementos que formam os organismos vivos (“bio”) e o ambiente geológico (“geo”), onde intervêm mudanças químicas. Em qualquer ecossistema existem tais ciclos.
+
+**Em qualquer ciclo biogeoquímico existe a retirada do elemento ou substância de sua fonte, sua utilização por seres vivos e posterior devolução para a sua fonte.**
+
+Vamos ver com mais detalhes cada um dos ciclos biogeoquímicos abaixo:
+
+
+
+**Ciclo do Nitrogênio**
+
+O nitrogênio se mostra como um dos elementos de caráter fundamental na composição dos sistemas vivos.
+
+Ele está envolvido com a coordenação e controle das atividades metabólicas. Entretanto, apesar de 78% da atmosfera ser constituída de nitrogênio, a grande maioria dos organismos é incapaz de utilizá-Io, pois este se encontra na forma gasosa (N2) que é muito estável possuindo pouca tendência a reagir com outros elementos.
+
+Os consumidores conseguem o nitrogênio de forma direta ou indireta através dos produtores. Eles aproveitam o nitrogênio que se encontra na forma de aminoácidos. Produtores introduzem nitrogênio na cadeia alimentar, através do aproveitamento de formas inorgânicas encontradas no meio, principalmente nitratos (NO3) e amônia (NH3+). O ciclo do nitrogênio pode ser dividido em algumas etapas:
+ 
+ • **Fixação:** Consiste na transformação do nitrogênio gasoso em substâncias aproveitáveis pelos seres vivos (amônia e nitrato). Os organismos responsáveis pela fixação são bactérias, retiram o nitrogênio do ar fazendo com que este reaja com o hidrogênio para formar amônia. 
+• **Amonificação:** Parte da amônia presente no solo, é originada pelo processo de fixação. A outra é proveniente do processo de decomposição das proteínas e outros resíduos nitrogenados, contidos na matéria orgânica morta e nas excretas. Decomposição ou amonificação é realizada por bactérias e fungos.
+• **Nitrificação:** É o nome dado ao processo de conversão da amônia em nitratos.
+• **Desnitrificação:** As bactérias desnitrificantes (como, por exemplo, a *Pseudomonas denitrificans*), são capazes de converter os nitratos em nitrogênios molecular, que volta a atmosfera fechando o ciclo. 
+
+![img](https://static.planejativo.com/uploads/novas/cfe931cd08cfdd5d21afec0b026ce47e.jpg)Rotação de Culturas
+
+Um procedimento bastante utilizado em agricultura é a “rotação de culturas”, na qual se alterna o plantio de não-leguminosas (o milho, por exemplo), que retiram do solo os nutrientes nitrogenados, com leguminosas (feijão), que devolvem esses nutrientes para o meio.
+
+
+
+**Impacto ambiental: eutrofização 🐟**
+
+![Ciclos biogeoquímicos: eutrofização](https://static.planejativo.com/uploads/novas/4b29d7fb62328d7b960c1601f9d228ed.jpg)
+
+##### Na imagem: peixes mortos devido à eutrofização das águas
+
+A **eutrofização** ocorre quando a água recebe elementos inorgânicos, como nitrogênio, amônia e fosfato, produzidos na decomposição do fosfato e do esgoto, entre outros.
+
+Eles são alimento para algas e cianobactérias, que se proliferam.
+
+Como consequência, a luz não chega até o fundo do ecossistema da água. Assim, há mais material para as bactérias decompositoras, que consomem muito gás oxigênio (O2).
+
+Como os outros seres vivos (como os peixes) precisam de O2, eles não conseguem viver. As próprias bactérias decompositoras aeróbicas também morrem.
+
+As bactérias anaeróbicas se proliferam. Elas, por sua vez, liberam nutrientes para bactérias metanogênicas, que soltam metano (CH4) na atmosfera, gás que retém grande quantidade de calor.
+
+Dessa forma, a eutrofização é um processo que tem impacto para o **aumento do aquecimento global**.
+
+
+
+**Ciclo da Água**
+
+A água apresenta dois ciclos:
+
+*Ciclo curto ou pequeno*
+
+É aquele que ocorre pela lenta evaporação da água dos mares, rios, lagos e lagos, formando nuvens.
+
+Estas se condensam, voltando à superfície na forma de chuva ou neve.
+
+*Ciclo longo*
+
+É aquele em que a água passa pelo corpo dos seres vivos antes de voltar ao ambiente. A água é retirada do solo através das raízes das plantas, sendo utilizada para a fotossíntese ou passada para outros animais através da cadeia alimentar. A água volta à atmosfera através da respiração, transpiração, fezes e urina. 
+
+![img](https://static.planejativo.com/uploads/novas/2278c076ed918cec28d7613b24e22c99.jpg)
+
+
+
+**Ciclo do Oxigênio**
+
+O ciclo do oxigênio se encontra intimamente ligado com o ciclo do carbono, uma vez que o fluxo de ambos está associado aos mesmos fenômenos: **fotossíntese** e respiração.
+
+Os processos de fotossíntese liberam oxigênio para a atmosfera, enquanto os processos de **respiração** e **combustão** o consomem.
+
+Parte do O2 da estratosfera é transformado pela ação de raios ultravioletas em ozônio (O3). Este forma uma camada que funciona como um filtro, evitando a penetração de 80% dos raios ultravioletas. A liberação constante de clorofluorcarbonos (CFC) leva a destruição da camada de ozônio. 
+
+![img](https://static.planejativo.com/uploads/novas/2fc3946133523615f0733ca9a0883eee.jpg)
+
+
+
+**Ciclo do Fósforo**
+
+Além da água, do carbono, do nitrogênio e do oxigênio, o fósforo também é importante para os seres vivos. Esse elemento faz parte, por exemplo, do **material hereditário** e das **moléculas energéticas de ATP**.
+
+Em certos aspectos, o ciclo do fósforo é mais simples do que os ciclos do carbono e do nitrogênio, pois não existem muitos compostos gasosos de fósforo e, portanto, não há passagem pela atmosfera. Outra razão para a simplicidade do ciclo do fósforo é a existência de apenas um composto de fósforo realmente importante para os seres vivos: o íon fosfato.
+
+As plantas obtêm fósforo do ambiente absorvendo os fosfatos dissolvidos na água e no solo. Os animais obtêm fosfatos na água e no alimento.
+
+![img](https://static.planejativo.com/uploads/novas/df7f9e7240d3a8d007f07077eacbd1e1.jpg)
+
+A decomposição devolve o fósforo que fazia parte da matéria orgânica ao solo ou à água. Daí, parte dele é arrastada pelas chuvas para os lagos e mares, onde acaba se incorporando às rochas. Nesse caso, o fósforo só retornará aos ecossistemas bem mais tarde, quando essas rochas se elevarem em consequência de processos geológicos e, na superfície, forem decompostas e transformadas em solo.
+
+Assim, existem dois ciclos do fósforo que acontecem em escalas de tempo bem diferentes. Uma parte do elemento recicla-se localmente entre o solo, as plantas, consumidores e decompositores, em uma escala de tempo relativamente curta, que podemos chamar **“ciclo de tempo ecológico”**. Outra parte do fósforo ambiental sedimenta-se e é incorporada às rochas; seu ciclo envolve uma escala de tempo muito mais longa, que pode ser chamada **“ciclo de tempo geológico”**
+
+**
+**
+
+**Ciclo do Cálcio**
+
+O cálcio é um elemento que participa de diversas estruturas dos seres vivos, ossos, conchas, paredes celulares das células vegetais, cascas calcárias de ovos, além de atuar em alguns processos fisiológicos, como a concentração muscular e a **coagulação do sangue** nos vertebrados.
+
+As principais fontes desse elemento são as rochas calcárias, que, desgastando-se com o tempo, liberam-no para o meio. No solo, é absorvido pelos vegetais e, por meio das cadeias alimentares, passa para os animais. Toneladas de calcária são utilizadas com frequência para a correção da acidez do solo, notadamente nos cerrados brasileiros, procedimento que, ao mesmo tempo, libera o cálcio para o uso pela vegetação e pelos animais.
+
+![img](https://static.planejativo.com/uploads/novas/3ddd88a6340d03a5d5153b52d64c8577.jpg)
+
+Nos oceanos o cálcio obtido pelos animais pode servir para a construção de suas coberturas calcárias. Com a morte desses seres, ocorre a decomposição das estruturas contendo **calcário** – **conchas de moluscos, revestimentos de foraminíferos** – no fundo dos oceanos, processo que contribui para a formação dos terrenos e rochas contendo calcário. Movimentos da crosta terrestre favorecem o afloramento desses terrenos, tornando o cálcio novamente disponível para o uso pelos seres vivos.
+
+
+
+**Ciclo do Carbono**
+
+As plantas realizam fotossíntese retirando o carbono do CO2 do ambiente para formatação de matéria orgânica.
+
+Esta última é oxidada pelo processo de respiração celular, que resulta em liberação de CO2 para o ambiente. A **decomposição e queima de combustíveis fóssei**s (carvão e petróleo) também libera CO2 no ambiente.
+
+Além disso, o aumento no teor de CO2 atmosférico causa o agravamento do "**efeito estufa**" que pode acarretar o descongelamento de geleiras e das calotas polares com consequente aumento do nível do mar e inundação das cidades litorâneas.   
+
+![img](https://static.planejativo.com/uploads/novas/a2ab83b88fb3f75985cf0bba9467615d.jpg)
+
+
+
+**Impacto ambiental** **🔥**
+
+O **aquecimento global** é gerado pelo CO2 e outros gases. A maior quantidade deste gás vem da queima de combustíveis fósseis, não da respiração de seres vivos. Vale salientar que a existência desses gases também é importante para a existência da vida na Terra, mantendo o planeta em uma temperatura média que torne a vida possível. No entanto o processo de retirada dos combustíveis fósseis de camadas fora do contato com a atmosfera, e a sua posterior queima altera o equilíbrio da atmosfera que já não contava mais com estes gases.
+
+Os animais – e a pecuária de gado – também contribuem para o aquecimento, já que eles liberam o gás metano (CH4), que retém mais calor do que CO2.
+
+Bactérias anaeróbicas também produzem CH4 e são encontradas principalmente em ambientes como lixões, criados pelo homem.
+
+O CO2 reage com a água e forma um ácido que prejudica os ecossistemas aquáticos.
+
+ 
+
+**Conclusão: por que as plantas são importantes?**
+
+Os vegetais absorvem mais gás carbônico para a fotossíntese, do que liberam para respirar.
+
+Sendo assim, são uma ferramenta para diminuir a concentração de carbono e reduzir o aquecimento global.
+
+Quando as plantas são queimadas – o que é extremamente comum no Brasil – elas liberam alta quantidade de carbono.
+
+
+
+
+
+**Ciclo do Enxofre**
+
+Enxofre é uma substância amarela encontrada no solo, que queima com facilidade.
+
+Ele entra na produção de ácido sulfúrico, uma substância muito utilizada para fertilizantes, corantes e explosivos (pólvora, palitos de fósforo, etc). O enxofre é encontrado nas rochas sedimentares, (formadas por depósitos que se acumularam pela ação da natureza) nas rochas vulcânicas, no carvão , no gás natural etc.
+
+O enxofre é essencial para a vida, faz parte da moléculas de proteína, vitais para o nosso corpo. Cerca de 140g de enxofre estão presentes no ser humano. A natureza recicla enxofre sempre que um animal ou planta morre. Quando apodrecem, as substâncias chamadas de “sulfatos”, combinados com a água são absorvidos pelas raízes das plantas. Os animais o obtêm comendo vegetais ou comendo outros animais.
+
+Quando o ciclo é alterado, animais e plantas sofrem, isso vem acontecendo através da constante queima de carvão, petróleo e gás. Esses combustíveis são chamados de “fósseis”, pois se formaram há milhões de anos, a partir da morte de imensas florestas tropicais ou da morte de microscópicas criaturas denominadas “plânctons”.
+
+![img](https://static.planejativo.com/uploads/novas/19c8995729e78de06a1603e44bcabb8c.jpg)
+
+
+
+**Fontes:**
+
+[Geekie Games - Ciclos Biogeoquímicos](https://geekiegames.geekie.com.br/blog/ciclos-biogeoquimicos-resumo/)
+[Só Biologia - Ciclos Biogeoquímicos](https://www.sobiologia.com.br/conteudos/bio_ecologia/ecologia26.php)
+
+
+
+Vídeos Relacionados:
+
+# Me Salva! ECO25 - Ecologia - Ciclos biogeoquímicos: água
+
+https://www.youtube.com/watch?v=yCwzJiYIm9M
+
+# Me Salva! ECO26 - Ecologia - Ciclos biogeoquímicos: carbono
+
+https://www.youtube.com/watch?v=rCuHiRzgQB8
+
+# Me Salva! ECO27 - Ecologia - Ciclos biogeoquímicos: oxigênio
+
+https://www.youtube.com/watch?v=LG48H_6LEDg
+
+# Me Salva! ECO28 - Ecologia - Ciclos biogeoquímicos: nitrogênio
+
+https://www.youtube.com/watch?v=tqaSRf3rhgg
