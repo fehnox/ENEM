@@ -109,8 +109,9 @@ Toda Matéria - Lei dos cossenos
 Toda Matéria - Lei dos senos
 
 Conteúdo relacionado:
+(Equaciona com Paulo Pereira):
+⭕ Lei dos Senos - GEOMETRIA PLANA (Aula 14)
+https://www.youtube.com/watch?v=t6zTP7fU8lA
 
-Lei dos senos e dos cossenos
-Vídeo do Youtube
-
-Vídeo do Youtube
+⭕ Lei dos Cossenos - GEOMETRIA PLANA (Aula 15)
+https://www.youtube.com/watch?v=-ChDnLM47xo&t=2s
