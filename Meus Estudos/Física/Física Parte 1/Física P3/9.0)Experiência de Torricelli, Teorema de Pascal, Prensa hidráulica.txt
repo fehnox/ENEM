@@ -1,0 +1,92 @@
+Experiência de Torricelli, Teorema de Pascal, Prensa hidráulica
+
+**Experiência de Torricelli**
+
+Ao bombear água de poços com bombas aspirantes, verifica-se que ela sobe dentro do tubo até uma altura de aproximadamente 10,3 metros e não mais que isso. Durante muito tempo esse fato ficou sem explicação.
+
+No século XVII, no entanto, Torricelli resolveu o problema através da seguinte experiência:
+
+Ele encheu até a boca um tubo de mercúrio, tampou-o e colocou-o num recipiente que continha o mesmo líquido. Quando destampou o tubo, o mercúrio dentro dele desceu e parou a 76 cm (ou 760 mm) do nível do mercúrio no recipiente (situação de equilíbrio). Entre o nível superior da coluna de mercúrio e as paredes do tubo, formou-se uma região de vácuo.
+
+![Ao destampar o tubo, o mercúrio desceu e parou a 76 cm do nível do mercúrio no recipiente](https://static.planejativo.com/uploads/novas/771e35dbb3214585d4a08b31dbf20b40.jpg)
+
+Na situação de equilíbrio, os pontos C e B, que se encontram no mesmo nível, estão submetidos à mesma pressão: em C é a pressão atmosférica ao nível do mar; em B é a pressão exercida pela coluna de líquido.
+
+De que maneira a experiência de Torricelli explica o limite de 10,3 m para a subida da coluna de água nas bombas aspirantes?
+
+A água é 13,6 vezes menos densa que o mercúrio. Assim, para que uma coluna de água exerça em sua base a mesma pressão exercida pela atmosfera, como acontece com a coluna de mercúrio, a relação entre a altura das colunas deve ser:
+
+![img](https://static.planejativo.com/uploads/novas/2246683a84d35442d30f08a29ca992d9.jpg)
+
+*altura da coluna de água=13,6 .0,76=10,3 m*
+
+Assim, podemos dizer que 760 mmHg = 10,3 mca (mca: metros de coluna de água). Outra unidade usada para medir a pressão é a atmosfera (atm).
+
+Patm=1 atm=760 mmHg=10,3 mca=1,013 .105 Pa
+
+![A bomba aspirante de água tem princípio de funcionamento baseado em um experimento proposto por Torricelli](https://static.planejativo.com/uploads/novas/6b748428c795051d67bf2c7f3aa8acc6.jpg)
+
+A bomba aspirante de água tem princípio de funcionamento baseado em um experimento proposto por Torricelli  
+
+**Teorema de Pascal**
+
+Quando aplicamos uma força a um líquido, a pressão causada se distribui integralmente e igualmente em todas as direções e sentidos.
+
+Pelo teorema de Stevin sabemos que:
+
+![img](https://static.planejativo.com/uploads/novas/20626ba5e539e2fa9079d8b44bad6586.gif)
+
+Então, considerando dois pontos, **A** e **B**:
+
+![img](https://static.planejativo.com/uploads/novas/6e1c212996a234643ad9aa175f7a4fea.gif)
+
+![img](https://static.planejativo.com/uploads/novas/a6746ca74ec4abfdbcb9ab375ea4959e.gif)
+
+Ao aplicarmos uma força qualquer, as pressões no ponto **A** e **B** sofrerão um acréscimo:
+
+![img](https://static.planejativo.com/uploads/novas/eb71e35c4fafd9e345cd53ab173a0b81.gif)
+
+![img](https://static.planejativo.com/uploads/novas/a4950f18c924a3f5a89fe07414eb6482.gif)
+
+Se o líquido em questão for ideal, ele não sofrerá compressão, então a distância **h**, será a mesma após a aplicação da força.
+
+Assim:
+
+![img](https://static.planejativo.com/uploads/novas/7f4b1d3990b3dffc4fe13ddebfee1d3d.gif)
+
+**Teorema de Pascal:**
+
+"O acréscimo de pressão exercida num ponto em um líquido ideal em equilíbrio se transmite integralmente a todos os pontos desse líquido e às paredes do recipiente que o contém."
+
+**Prensa hidráulica**
+
+Uma das principais aplicações do teorema de Pascal é a prensa hidráulica.
+
+Esta máquina consiste em dois cilindros de raios diferentes **A** e **B**, interligados por um tubo, no seu interior existe um líquido que sustenta dois êmbolos de áreas diferentes ![img](https://static.planejativo.com/uploads/novas/05449e4cc5837423bd179e37457b2fe3.gif) e ![img](https://static.planejativo.com/uploads/novas/8467f402440a5fdf4be7786cff366af0.gif).
+
+Se aplicarmos uma força de intensidade F no êmbolo de área ![img](https://static.planejativo.com/uploads/novas/05449e4cc5837423bd179e37457b2fe3.gif), exerceremos um acréscimo de pressão sobre o líquido dado por:
+
+![img](https://static.planejativo.com/uploads/novas/8e1d6f0eaf04c79450291628042aef37.gif)
+
+Pelo teorema de Pascal, sabemos que este acréscimo de pressão será transmitido integralmente a todos os pontos do líquido, inclusive ao êmbolo de área ![img](https://static.planejativo.com/uploads/novas/8467f402440a5fdf4be7786cff366af0.gif), porém transmitindo um força diferente da aplicada:
+
+![img](https://static.planejativo.com/uploads/novas/9f973dacf0e337ced2a0ec24e838dbc6.gif)
+
+Como o acréscimo de pressão é igual para ambas as expressões podemos igualá-las:
+
+![img](https://static.planejativo.com/uploads/novas/bc99bb8fd435808972016eb6d9d3564d.gif)
+
+**Fontes:**
+
+[Só Física - Teorema de Pascal](https://www.sofisica.com.br/conteudos/Mecanica/EstaticaeHidrostatica/teoremadepascal.php)
+[Mundo Educação - Experiência Torriccelli](https://mundoeducacao.bol.uol.com.br/fisica/experiencia-torricelli.htm)
+
+Vídeos Referêntes:
+
+# Me Salva! HID05 - Hidrostática - Experiência de Torricelli
+
+https://www.youtube.com/watch?v=639RgoEmuMg
+
+# PRENSA HIDRÁULICA - TEOREMA DE PASCAL - HIDROSTÁTICA - Aula 3 - Prof Boaro
+
+https://www.youtube.com/watch?v=MgFKKbmkb3E

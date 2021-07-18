@@ -1,3 +1,5 @@
+Ordem de grandeza
+
 **Introdução à física**
 
 *Introdução à física: origem dessa ciência que trata das interações entre matéria e energia e que teve início na Grécia antiga unida ao pensamento filosófico.*
@@ -200,3 +202,22 @@ Portanto, N = 2,8. 107≈ 1. 107, e a ordem de grandeza de N é 107.
 [Mundo Educação - Grandezas Físicas](https://mundoeducacao.uol.com.br/fisica/grandezas-fisicas.htm)
 [Mundo Educação - Introdução à Física](https://mundoeducacao.uol.com.br/fisica/introducao-fisica.htm)
 [Toda Matéria - Notação Científica](https://www.todamateria.com.br/notacao-cientifica/)
+
+##### Conteúdo relacionado
+
+# Introdução à Física
+
+https://www.youtube.com/watch?v=Gjr9cN3Pu98
+
+# Introdução a Física - Importância e Divisão da Física
+
+https://www.youtube.com/watch?v=nJqey7kib0M
+
+# Física - Notação Científica
+
+https://www.youtube.com/watch?v=recMlMwRhGw
+
+# Física Total - Aula 01 - Grandezas Físicas, Notação Padrão e Ordem de Grandeza
+
+https://www.youtube.com/watch?v=MLEZI03kUkE
+

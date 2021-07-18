@@ -1,3 +1,5 @@
+Vetores
+
 **Vetores**
 
 Vetores são segmentos de retas usados para representar alguma grandeza vetorial. 
@@ -99,3 +101,10 @@ Para encontrarmos o módulo desse vetor, somamos as componentes x e y de cada um
 
 **Fonte:**
 [Mundo Educação - Vetores](https://mundoeducacao.bol.uol.com.br/fisica/vetores.htm)
+
+##### Conteúdo relacionado
+
+# MEGA AULA COMPLETA de VETORES!!!(Mais link para resolução de DEZENAS de exercícios)-Professor Boaro
+
+https://www.youtube.com/watch?v=eAAKzZcbITI&t=1055s
+

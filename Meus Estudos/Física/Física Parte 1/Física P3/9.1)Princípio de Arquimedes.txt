@@ -1,0 +1,41 @@
+**1 – INTRODUÇÃO:** Assim como os [princípios de Stevin](https://www.infoescola.com/hidrostatica/principio-de-stevin/) e [Pascal](https://www.infoescola.com/fisica/pressao-hidraulica-principio-de-pascal/), o **princípio de Arquimedes** é um dos princípios que formam a base teórica da Hidrostática.
+
+Em física, Hidrostática é a área dedicada ao estudo de fluidos que se encontram em [equilíbrio estático](https://www.infoescola.com/fisica/equilibrio-estatico/) ou dinâmico. Em outras palavras a [Hidrostática](https://www.infoescola.com/fisica/hidrostatica/) é o estudo dos fluidos que se encontram em repouso ou em [movimento retilíneo uniforme](https://www.infoescola.com/fisica/movimento-retilineo-uniforme/).
+
+**2 – PRINCÍPIO DE ARQUIMEDES:** Certamente você já teve a sensação de que os corpos submersos em uma piscina aparentam diminuir seus pesos, ou já se perguntou porque um cubo de gelo fica boiando na superfície de um copo contendo água. Estes e outros diversos exemplos que ocorrem no nosso cotidiano são aplicações do princípio de Arquimedes.
+
+O princípio de Arquimedes (ou teorema de Arquimedes) diz que todo corpo totalmente imerso ou parcialmente imerso em um líquido qualquer fica sujeito a uma força vertical de baixo para cima, igual ao peso da porção de líquido deslocado pelo corpo. Esta força é denominada força de empuxo, ou seja *E = P = m . g .*
+
+![img](https://www.infoescola.com/wp-content/uploads/2020/01/img_5e209c3744539.png)
+
+Figura 1: Diagrama de forças, para exemplificar o princípio de Arquimedes, de um sistema contendo um cubo de gelo dentro de um copo de água.
+
+Repare na Figura 1 que a força de empuxo é uma força contrária a força peso. Isso quer dizer que ela atua diminuindo a intensidade da [força peso](https://www.infoescola.com/fisica/forca-peso/). É exatamente ela que dá a sensação de que o peso dos corpos imersos em líquidos diminui.
+
+Uma vez que é conhecida a relação entre massa, densidade e volume, D=mV, a equação para o [empuxo](https://www.infoescola.com/fisica/empuxo/) fica dada por E=D⋅Vliq. desl.⋅g.
+
+Na equação acima, Vliq. desl. é o volume de líquido deslocado pelo corpo que foi submerso ao líquido. Desta forma destacam-se as seguintes situações:
+
+- Quando um corpo estiver totalmente submerso a um líquido, então, Vliq. desl.=Vreal do corpo.
+- Se o corpo estiver flutuando no líquido, só a porção do corpo que está mergulhada no líquido representará o volume de líquido deslocado.
+- Se a força peso for maior que a força de empuxo isso quer dizer que o corpo descerá com aceleração constante quando a densidade de corpo for maior do que a densidade do líquido
+- Se a força peso for menor que a força de empuxo o corpo subirá com aceleração constante até ficar flutuando na superfície do líquido. Isso acontecerá quando a densidade do corpo for menor do que a densidade do líquido.
+- Caso a força peso seja igual a força de empuxo o corpo ficará em equilíbrio, qualquer que seja o ponto em que for colocado. Isso acontecerá quando as densidades do corpo e do líquido forem iguais.
+
+Referências:
+
+BONJORNO, José Roberto; BONJORNO, Regina Azenha; BONJORNO, Valter; CLINTON, Márcico Ramos. **Física História & Cotidiano**. São Paulo: Editora FTD, 2004, volume único.
+
+HEWITT, Paul G. **Física Conceitual**. Porto Alegre: Editora: Bookman, 2011, 11ª. ed. v. único.
+
+Texto originalmente publicado em https://www.infoescola.com/fisica/principio-de-arquimedes-empuxo/
+
+Arquivado em: [Física](https://www.infoescola.com/fisica/), [Hidrostática](https://www.infoescola.com/hidrostatica/), [Mecânica Clássica](https://www.infoescola.com/mecanica/)
+
+Fonte: https://www.infoescola.com/fisica/principio-de-arquimedes-empuxo/
+
+Vídeos Relacionados:
+
+# EMPUXO - TEOREMA DE ARQUIMEDES - HIDROSTÁTICA - Aula 4 - Prof. Boaro
+
+https://www.youtube.com/watch?v=n5_qJ2cIr9s
