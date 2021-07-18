@@ -175,7 +175,7 @@ Onde,
 **Fontes:**
 
 [Toda Matéria - Progressão Aritmética](https://www.todamateria.com.br/progressao-aritmetica/)
-[Toda Matéria - Sequência Numérica](https://www.todamateria.com.br/sequencia-numerica/)
+[Toda Matéria - Sequência Numérica](https://www.todamateria.com.br/sequencia-numerica/)https://www.todamateria.com.br/sequencia-numerica/)
 
 (Canal: Ferretto Matemática) (Prof. Ferretto)
 

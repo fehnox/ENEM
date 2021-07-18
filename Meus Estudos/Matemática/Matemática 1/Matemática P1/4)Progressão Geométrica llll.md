@@ -120,6 +120,11 @@ Por fim, é possível encontrar o **produto dos termos de uma PG finita**. A fó
 [Brasil Escola - Progressão geométrica](https://brasilescola.uol.com.br/matematica/progressao-geometrica.htm)
 [Brasil Escola - Soma dos termos de uma PG infinita](https://brasilescola.uol.com.br/matematica/soma-dos-termos-uma-pg-infinita.htm)
 
+[Toda Matéria - Progressão Geométrica](https://www.todamateria.com.br/progressao-geometrica/)
+[Mundo Educação - Soma dos infinitos termos de uma PG](https://mundoeducacao.bol.uol.com.br/matematica/soma-dos-infinitos-termos-uma-pg.htm)
+[Brasil Escola - Progressão geométrica](https://brasilescola.uol.com.br/matematica/progressao-geometrica.htm)
+[Brasil Escola - Soma dos termos de uma PG infinita](https://brasilescola.uol.com.br/matematica/soma-dos-termos-uma-pg-infinita.htm)
+
 ##### Conteúdo relacionado
 
 Prof. Ferretto  (Ferretto Matemática):
