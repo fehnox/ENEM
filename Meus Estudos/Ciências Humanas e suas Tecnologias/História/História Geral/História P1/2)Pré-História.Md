@@ -210,3 +210,20 @@ Os estudos indicam que provavelmente seus habitantes produziam também um tipo e
 [Só História - Neolítico](https://www.sohistoria.com.br/ef2/periodos/p2.php)
 [Só História - Idade dos Metais](https://www.sohistoria.com.br/ef2/periodos/p3.php)
 [Só História - Teorias sobre a origem do homem americano e brasileiro](https://www.sohistoria.com.br/ef2/origemhomem/)
+
+Vídeos Relacionados:
+
+# Pré-História
+
+https://www.youtube.com/watch?v=IAzZ9HXA2xw
+
+# Evolução humana | Nerdologia Ensina 12
+
+https://www.youtube.com/watch?v=Comf5vc56zc
+
+
+
+# A PRÉ-HISTÓRIA DO BRASIL: DO POVOAMENTO AS SOCIEDADES
+
+https://www.youtube.com/watch?v=LSqOKMnakU4
+
